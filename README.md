@@ -11,17 +11,15 @@ Coding in:
     <a href="link address"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> </a>
   </div>
   Learning languages:
- <div>
+  <div>
     <a ><img src="https://img.shields.io/badge/c%23-%8900C3.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> </a>
-    <a ><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> </a>
     <a ><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </a>
-   
-    </div>
+    <a ><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> </a>
+  </div>
     <div> 
      <a ><img src="https://img.shields.io/badge/CSS-FCAE1E?&style=for-the-badge&logo=css3&logoColor=white"> </a>
-    <a ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
-
-   </div>
+     <a ><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </a>
+    </div>
   
 #### My Stats
 <div align="center">
